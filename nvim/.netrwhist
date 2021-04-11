@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/jz/repos/madoko-template'
+let g:netrw_dirhist_3='/Users/jz/repos/ghci.vim/plugin'
+let g:netrw_dirhist_2='/Users/jz/repos/ghci.vim'
+let g:netrw_dirhist_1='/Users/jz/repos/ghci.vim/plugin'
+let g:netrw_dirhist_0='/Users/jz/repos/ghci.vim'
+let g:netrw_dirhist_9='/Users/jz/repos/AOC/src/aoc2017'
+let g:netrw_dirhist_8='/Users/jz/repos/AOC/src'
+let g:netrw_dirhist_7='/Users/jz/repos/AOC/src/aoc2017'
+let g:netrw_dirhist_6='/Users/jz/repos/AOC/src'
+let g:netrw_dirhist_5='/Users/jz/repos/AoPL/slides/Lecture 1.key'
